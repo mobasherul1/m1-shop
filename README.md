@@ -355,7 +355,7 @@ Yes — freelancers use it to prepare client photos: metadata, compression, wate
 
 ## 📌 About this repository
 
-This repository is the **public project page and documentation for M1 Shop** — the live site is at https://m1shop.netlify.app. The site's source code is not in this repo; it is developed and maintained by the founder. If you want to contribute, report a bug, or suggest a tool, please open an **Issue** here on GitHub, or message the [M1 Shop Facebook Page](https://www.facebook.com/Mob1.shop).
+This repository is the **public project page and documentation for M1 Shop** — the live site is at https://m1shop.netlify.app. It also includes **`mshop-v0.13.html`** — the v0.13 snapshot of the site (single HTML file, 2.9 MB, snapshot taken 4 Nov 2026), so you can see and run the version this page describes. If you want to contribute, report a bug, or suggest a tool, please open an **Issue** here on GitHub, or message the [M1 Shop Facebook Page](https://www.facebook.com/Mob1.shop).
 
 ---
 
